@@ -1,4 +1,4 @@
-# moonlora-com
+# Moonlora
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,17 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-moonlora-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
+Moonlora provides a modern lunar calendar and moon phase tracking service, offering real-time moon data, detailed lunar phase visualizations, and personalized location‑based moonrise and moonset times. The platform integrates with various applications via its API, enabling developers to embed accurate lunar information into weather apps, gardening tools, and cultural event planners. Moonlora emphasizes open data, reliable uptime, and comprehensive documentation for developers.
 
-**Areas:** Company
+**Areas:** lunar · astronomy · calendar · API · developer
 
-## moonlora-com on APIs.io
+## Moonlora on APIs.io
 
-Everything profiled for moonlora-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/moonlora-com/](https://apis.io/providers/moonlora-com/)** — or go straight to one of the APIs or properties below.
+Everything profiled for Moonlora is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/moonlora-com/](https://apis.io/providers/moonlora-com/)** — or go straight to one of the APIs or properties below.
 
 ### APIs (1)
 
-- [Moonlora Moon API](https://apis.io/apis/moonlora-com/moonlora-moon-api/) — Free moon phase data API providing phase, illumination, and moonrise/set information.
+- [Moonlora Moon API](https://apis.io/apis/moonlora-com/moonlora-moon-api/) — Free moon phase data (Meeus algorithm, 1900-2100). Attribution required: link to https://moonlora.com.
 
 ### Published properties
 
@@ -84,19 +84,19 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [moonlora-com Agentic Access](https://apis.io/agentic-access/moonlora-com/moonlora-com-agentic-access/)
+- [Moonlora Agentic Access](https://apis.io/agentic-access/moonlora-com/moonlora-com-agentic-access/)
 
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
 
-- [moonlora-com API Rules](https://apis.io/rules/moonlora-com/moonlora-com-rules/)
+- [Moonlora API Rules](https://apis.io/rules/moonlora-com/moonlora-com-rules/)
 
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [moonlora-com Domain Security](https://apis.io/security/moonlora-com/moonlora-com-domain-security/)
+- [Moonlora Domain Security](https://apis.io/security/moonlora-com/moonlora-com-domain-security/)
 
 ## Where to find this API
 
@@ -107,18 +107,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 12.6** — emerging · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 15.6** — emerging · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.3 |
+| Discoverability | 65.0 |
 | Contract quality | 0.0 |
 | Contract governance | 65.5 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 7.1 |
+| Developer ergonomics | 13.6 |
 | Access clarity | 0.0 |
 
-**Agent readiness 9.6** — agent-aware
+**Agent readiness 12.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -132,7 +132,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
@@ -153,7 +153,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for moonlora-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Moonlora: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
